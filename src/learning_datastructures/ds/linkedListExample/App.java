@@ -1,4 +1,4 @@
-package ds.linkedListExample;
+package learning_datastructures.ds.linkedListExample;
 
 public class App {
     public static void main(String[] args) {

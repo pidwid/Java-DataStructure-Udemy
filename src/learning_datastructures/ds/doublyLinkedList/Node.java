@@ -1,4 +1,4 @@
-package ds.doublyLinkedList;
+package learning_datastructures.ds.doublyLinkedList;
 
 public class Node {
     public int data;

@@ -1,4 +1,4 @@
-package ds.stack;
+package learning_datastructures.ds.stack;
 
 public class Stack {
     private int maxSize;

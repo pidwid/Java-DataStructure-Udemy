@@ -1,4 +1,4 @@
-package ds.doublyLinkedList;
+package learning_datastructures.ds.doublyLinkedList;
 
 import javax.swing.plaf.nimbus.NimbusLookAndFeel;
 

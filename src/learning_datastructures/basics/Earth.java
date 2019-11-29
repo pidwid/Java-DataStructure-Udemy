@@ -1,4 +1,4 @@
-package basics;
+package learning_datastructures.basics;
 
 public class Earth {
     public static void main(String[] args) {

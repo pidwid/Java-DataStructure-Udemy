@@ -1,4 +1,4 @@
-package ADT;
+package learning_datastructures.ADT;
 
 public class Counter {
 

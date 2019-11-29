@@ -1,4 +1,4 @@
-package ADT;
+package learning_datastructures.ADT;
 public class Main{
     public static void main(String[] args) {
         Counter count = new Counter("count");

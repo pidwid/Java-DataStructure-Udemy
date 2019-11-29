@@ -1,4 +1,4 @@
-package ds.stack;
+package learning_datastructures.ds.stack;
 
 public class App {
     public static void main(String[] args) {

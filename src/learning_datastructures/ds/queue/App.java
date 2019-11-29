@@ -1,4 +1,4 @@
-package ds.queue;
+package learning_datastructures.ds.queue;
 
 public class App {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ds.circularLinkedList;
+package learning_datastructures.ds.circularLinkedList;
 
 public class CircularLinkedList {
 

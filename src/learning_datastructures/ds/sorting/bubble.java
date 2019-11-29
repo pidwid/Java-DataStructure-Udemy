@@ -1,4 +1,4 @@
-package ds.sorting;
+package learning_datastructures.ds.sorting;
 
 import java.sql.Array;
 import java.util.Arrays;

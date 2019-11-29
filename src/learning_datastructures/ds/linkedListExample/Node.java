@@ -1,4 +1,4 @@
-package ds.linkedListExample;
+package learning_datastructures.ds.linkedListExample;
 
 public class Node {
     int data;

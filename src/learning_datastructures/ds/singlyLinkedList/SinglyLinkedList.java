@@ -1,4 +1,4 @@
-package ds.singlyLinkedList;
+package learning_datastructures.ds.singlyLinkedList;
 
 
 public class SinglyLinkedList {
